@@ -8,3 +8,5 @@ Common digital marketing practices include content creation, search engine optim
 Digital marketing is increasingly essential in modern business environments because it offers a data-driven way to understand user behavior, adjust strategies, and potentially improve visibility and engagement across online audiences. Its cost-effective nature allows both small and large entities to adopt digital methods as part of broader marketing plans.
 
 Overall, digital marketing supports online presence by leveraging technology, analytics, and diverse digital touchpoints to reach and interact with target audiences in efficient, trackable ways. 
+
+![Digital Marketing](Digital-marketing.jpg)
